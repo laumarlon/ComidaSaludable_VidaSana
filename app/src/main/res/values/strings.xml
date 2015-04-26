@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ComidaSaludables&amp;VidasSanas</string>
+    <string name="generar_QR">Generar codigo QR</string>
+    <string name="ingreso_receta">Ingrese su receta</string>
+    <string name="app_id">1582079135395959</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_simple_login">With Simple Login Button</string>
+    <string name="action_custom_login">With Custom Login Button</string>
+
+</resources>
